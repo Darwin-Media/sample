@@ -4,9 +4,10 @@
 }
 .container{
   height: 100vh;
-  background-color: cyan;
-  border: 2px solid rgb(255, 1, 52);
+  background-color: rgb(3, 46, 46);
+  border: 2px solid rgb(247, 142, 163);
   border-radius: 10px;
+  margin-top: 10px;
 }
 
 .hegtt{
